@@ -51,7 +51,3 @@ Status:
 
 This plugin is released under the Apache 2.0 license, but the ZBar library on which it depends (and which is distribute with this plugin) is under the LGPL license (2.1).
 
-
-## Thanks
-
-Thank you to @PaoloMessina and @nickgerman for code contributions.
